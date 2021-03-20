@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Nexus Integration practice </name>
-	      <url>http://18.224.23.82:8081/repository/artifactjenkins/</url>
+	      <url>http://3.19.123.166:8081/repository/amazon-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Nexus Integration practice </name>
-	      <url>http://18.224.23.82:8081/repository/artifactjenkins-snap/</url>
+	      <url>http://3.19.123.166:8081/repository/amazon-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
